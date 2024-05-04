@@ -1,4 +1,4 @@
-use dh;
+USE digitalHouse;
  -- 1-Obtener los 5 cursos con más unidades: Escribe una consulta que devuelva los títulos de los 5 cursos que tienen más 
   -- unidades. Los resultados deben estar ordenados en orden descendente por el número de unidades.
 
